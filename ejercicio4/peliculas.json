@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422ab299a868640f25c1b6a"
+  },
+  "codigo": 365,
+  "nombre": "Star Wars Episodio 1",
+  "calificacionedad": 13
+},{
+  "_id": {
+    "$oid": "642c5eecb93dc934e834e88c"
+  },
+  "codigo": 887,
+  "nombre": "El Padrino",
+  "calificacionedad": 18
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6422a99a9a868640f25c1b65"
+  },
+  "dni": "48675933",
+  "nombre": "Roger",
+  "apellidos": "Gibert",
+  "departamento": {
+    "$oid": "6422a93c9a868640f25c1b64"
+  }
+},{
+  "_id": {
+    "$oid": "642c5e70b93dc934e834e877"
+  },
+  "dni": "54678921",
+  "nombre": "Rigoberto",
+  "apellidos": "Giberto",
+  "departamento": {
+    "$oid": "642c5e7eb93dc934e834e879"
+  }
+}]

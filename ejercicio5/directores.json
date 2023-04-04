@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6422b04a9a868640f25c1b70"
+  },
+  "dni": 53185542,
+  "nomapel": "Alberto Fernandez",
+  "dnijefe": "",
+  "despacho": {
+    "$oid": "6422ae549a868640f25c1b6c"
+  }
+},{
+  "_id": {
+    "$oid": "6422b05e9a868640f25c1b71"
+  },
+  "dni": 99483271,
+  "nomapel": "Manuel Marbel",
+  "dnijefe": {
+    "$oid": "6422b04a9a868640f25c1b70"
+  },
+  "despacho": {
+    "$oid": "6422ae549a868640f25c1b6c"
+  }
+}]

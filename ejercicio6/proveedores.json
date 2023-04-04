@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422b0f69a868640f25c1b72"
+  },
+  "id": "9iu3",
+  "nombre": "Garaje Juan"
+},{
+  "_id": {
+    "$oid": "642c5fa6b93dc934e834e8b0"
+  },
+  "id": "432r",
+  "nombre": "Piezas Marquez"
+}]

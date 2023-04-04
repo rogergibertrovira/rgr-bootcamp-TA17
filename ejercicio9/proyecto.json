@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422b4309a868640f25c1b7e"
+  },
+  "id": "9oiy",
+  "nombre": "Rayo mortal X",
+  "horas": 90
+},{
+  "_id": {
+    "$oid": "642c5f47b93dc934e834e8a4"
+  },
+  "id": "r23r",
+  "nombre": "Rayo no mortal Z",
+  "horas": 20
+}]

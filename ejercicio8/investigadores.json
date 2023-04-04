@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6422b2f59a868640f25c1b7a"
+  },
+  "dni": 43125567,
+  "nomapels": "Roberto Ciencia",
+  "facultad": {
+    "$oid": "6422b2bf9a868640f25c1b79"
+  }
+},{
+  "_id": {
+    "$oid": "642c604ab93dc934e834e8ce"
+  },
+  "dni": 43125567,
+  "nomapels": "Jose Fernandez",
+  "facultad": {
+    "$oid": "642c6035b93dc934e834e8cc"
+  }
+}]

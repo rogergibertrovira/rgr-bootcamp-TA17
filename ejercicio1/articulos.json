@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6422a8c69a868640f25c1b63"
+  },
+  "codigo": 321,
+  "nombre": "memoria RAM",
+  "precio": 145,
+  "fabricante": {
+    "$oid": "6422a7bd9a868640f25c1b60"
+  }
+},{
+  "_id": {
+    "$oid": "642c5e34b93dc934e834e872"
+  },
+  "codigo": 421,
+  "nombre": "targeta grafica",
+  "precio": 1750,
+  "fabricante": {
+    "$oid": "6422a7bd9a868640f25c1b60"
+  }
+}]

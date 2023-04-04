@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422b11a9a868640f25c1b73"
+  },
+  "codigo": 7754,
+  "nombre": "caja de cambios"
+},{
+  "_id": {
+    "$oid": "642c5f96b93dc934e834e8ae"
+  },
+  "codigo": 4423,
+  "nombre": "disco de freno"
+}]

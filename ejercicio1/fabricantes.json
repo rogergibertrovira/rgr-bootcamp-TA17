@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422a7bd9a868640f25c1b60"
+  },
+  "codigo": 422,
+  "nombre": "MSI"
+},{
+  "_id": {
+    "$oid": "6422a7d59a868640f25c1b61"
+  },
+  "codigo": 268,
+  "nombre": "Gigabyte"
+}]

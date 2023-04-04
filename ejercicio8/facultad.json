@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422b2bf9a868640f25c1b79"
+  },
+  "codigo": 1221,
+  "nombre": "Universidad Girona"
+},{
+  "_id": {
+    "$oid": "642c6035b93dc934e834e8cc"
+  },
+  "codigo": 6654,
+  "nombre": "Universidad Barcelona"
+}]

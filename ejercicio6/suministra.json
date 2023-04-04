@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6422b1589a868640f25c1b74"
+  },
+  "codigopieza": {
+    "$oid": "6422b11a9a868640f25c1b73"
+  },
+  "idproveedor": {
+    "$oid": "6422b0f69a868640f25c1b72"
+  },
+  "precio": 652
+},{
+  "_id": {
+    "$oid": "642c5fafb93dc934e834e8b2"
+  },
+  "codigopieza": {
+    "$oid": "642c5f96b93dc934e834e8ae"
+  },
+  "idproveedor": {
+    "$oid": "642c5fa6b93dc934e834e8b0"
+  },
+  "precio": 235
+}]

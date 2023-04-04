@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422a93c9a868640f25c1b64"
+  },
+  "codigo": 665,
+  "nombre": "Recursos Humanos",
+  "presupuesto": 54000
+},{
+  "_id": {
+    "$oid": "642c5e7eb93dc934e834e879"
+  },
+  "codigo": 134,
+  "nombre": "IT",
+  "presupuesto": 178000
+}]

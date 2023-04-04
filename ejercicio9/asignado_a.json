@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6422b4579a868640f25c1b7f"
+  },
+  "cientifico": {
+    "$oid": "6422b4079a868640f25c1b7d"
+  },
+  "proyecto": {
+    "$oid": "6422b4309a868640f25c1b7e"
+  }
+},{
+  "_id": {
+    "$oid": "642c5f70b93dc934e834e8a8"
+  },
+  "cientifico": {
+    "$oid": "642c5f69b93dc934e834e8a6"
+  },
+  "proyecto": {
+    "$oid": "642c5f47b93dc934e834e8a4"
+  }
+}]

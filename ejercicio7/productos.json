@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422b1f09a868640f25c1b75"
+  },
+  "codigo": 5234,
+  "nombre": "pan integral",
+  "precio": 2.35
+},{
+  "_id": {
+    "$oid": "642c5ff7b93dc934e834e8bc"
+  },
+  "codigo": 3422,
+  "nombre": "jersei azul",
+  "precio": 22.57
+}]

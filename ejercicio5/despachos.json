@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422ae549a868640f25c1b6c"
+  },
+  "numero": 5318,
+  "capacidad": 35
+},{
+  "_id": {
+    "$oid": "642c5f0ab93dc934e834e892"
+  },
+  "numero": 3213,
+  "capacidad": 12
+}]

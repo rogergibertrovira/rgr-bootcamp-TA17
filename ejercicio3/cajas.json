@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6422aad79a868640f25c1b68"
+  },
+  "numreferencia": "r431e",
+  "contenido": "manzanas",
+  "valor": 6400,
+  "almacen": {
+    "$oid": "6422aa809a868640f25c1b66"
+  }
+},{
+  "_id": {
+    "$oid": "642c5ed0b93dc934e834e886"
+  },
+  "numreferencia": "r3234",
+  "contenido": "pescado",
+  "valor": 19230,
+  "almacen": {
+    "$oid": "642c5ea2b93dc934e834e882"
+  }
+}]

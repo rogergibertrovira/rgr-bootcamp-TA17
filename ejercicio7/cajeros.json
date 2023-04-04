@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422b2249a868640f25c1b76"
+  },
+  "codigo": 22112,
+  "nomapels": "Juan Caja"
+},{
+  "_id": {
+    "$oid": "642c5fdcb93dc934e834e8b8"
+  },
+  "codigo": 3323,
+  "nomapels": "Mario Martin"
+}]

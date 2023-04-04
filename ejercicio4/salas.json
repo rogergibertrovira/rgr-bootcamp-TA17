@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6422ab679a868640f25c1b6b"
+  },
+  "codigo": 653,
+  "nombre": "Ocine Gavarres",
+  "pelicula": {
+    "$oid": "6422ab299a868640f25c1b6a"
+  }
+},{
+  "_id": {
+    "$oid": "642c5ef9b93dc934e834e88e"
+  },
+  "codigo": 231,
+  "nombre": "Ocine Reus",
+  "pelicula": {
+    "$oid": "642c5eecb93dc934e834e88c"
+  }
+}]
